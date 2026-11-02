@@ -1,0 +1,4 @@
+217745,Teo Meng,BMW iX3 (Mineral White),Luxury,2026-04-21,08:00 AM,2026-04-29,08:00 AM,Kuala Lumpur,AC234,Picked Up,GOOD
+946417,Teo Meng,Honda Civic (Platinum White),Economy,2026-04-21,13:00 PM,2026-04-27,08:00 AM,Kuala Lumpur,AC3456,Returned
+640213,ALI,Honda Civic (Ignite Red),Economy,2026-04-21,08:00 AM,2026-04-23,08:00 AM,Kuala Lumpur,DC2344,Picked Up,
+659472,Teo Meng,BMW iX3 (Carbon Black),Luxury,2026-04-22,08:00 AM,2026-04-28,08:00 AM,Kuala Lumpur,CD2344,Picked Up,

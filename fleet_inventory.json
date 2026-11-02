@@ -1,0 +1,138 @@
+[
+  {
+    "name": "BMW iX3 (Mineral White)",
+    "type": "Luxury SUV",
+    "plateNum": "W 8821 B",
+    "category": "Luxury",
+    "detail": "Car Type: Luxury SUV<br>Seating Capacity: 5 seats<br>Rent Amount: RM 1,230.00 /day",
+    "imagePath": "photo/BMW iX3.jpg"
+  },
+  {
+    "name": "BMW iX3 (Sophisto Grey)",
+    "type": "Luxury SUV",
+    "plateNum": "BRP 1102",
+    "category": "Luxury",
+    "detail": "Car Type: Luxury SUV<br>Seating Capacity: 5 seats<br>Rent Amount: RM 1,230.00 /day",
+    "imagePath": "photo/BMW iX3.jpg"
+  },
+  {
+    "name": "BMW iX3 (Carbon Black)",
+    "type": "Luxury SUV",
+    "plateNum": "VAA 9000",
+    "category": "Luxury",
+    "detail": "Car Type: Luxury SUV<br>Seating Capacity: 5 seats<br>Rent Amount: RM 1,230.00 /day",
+    "imagePath": "photo/BMW iX3.jpg"
+  },
+  {
+    "name": "GXV HILT (Stealth Grey)",
+    "type": "Expedition Vehicle",
+    "plateNum": "QAA 3310 C",
+    "category": "RV",
+    "detail": "Car Type: Expedition Vehicle<br>Seating Capacity: 4 seats<br>Rent Amount: RM 1,340.00 /day",
+    "imagePath": "photo/GXV HILT.jpg"
+  },
+  {
+    "name": "GXV HILT (Forest Green)",
+    "type": "Expedition Vehicle",
+    "plateNum": "AMH 882",
+    "category": "RV",
+    "detail": "Car Type: Expedition Vehicle<br>Seating Capacity: 4 seats<br>Rent Amount: RM 1,340.00 /day",
+    "imagePath": "photo/GXV HILT.jpg"
+  },
+  {
+    "name": "Honda Civic (Ignite Red)",
+    "type": "Sedan",
+    "plateNum": "BKT 993",
+    "category": "Economy",
+    "detail": "Car Type: Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 350.00 /day",
+    "imagePath": "photo/Honda Civic.jpg"
+  },
+  {
+    "name": "Honda Civic (Meteoroid Gray)",
+    "type": "Sedan",
+    "plateNum": "W 2210 P",
+    "category": "Economy",
+    "detail": "Car Type: Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 350.00 /day",
+    "imagePath": "photo/Honda Civic.jpg"
+  },
+  {
+    "name": "Honda Civic (Platinum White)",
+    "type": "Sedan",
+    "plateNum": "KCT 77",
+    "category": "Economy",
+    "detail": "Car Type: Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 350.00 /day",
+    "imagePath": "photo/Honda Civic.jpg"
+  },
+  {
+    "name": "Perodua Bezza (Ocean Blue)",
+    "type": "Compact Sedan",
+    "plateNum": "ALB 4432",
+    "category": "Economy",
+    "detail": "Car Type: Compact Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 150.00 /day",
+    "imagePath": "photo/Perodua Bezza.jpg"
+  },
+  {
+    "name": "Perodua Bezza (Garnet Red)",
+    "type": "Compact Sedan",
+    "plateNum": "MAS 1957",
+    "category": "Economy",
+    "detail": "Car Type: Compact Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 150.00 /day",
+    "imagePath": "photo/Perodua Bezza.jpg"
+  },
+  {
+    "name": "Perodua Bezza (Ivory White)",
+    "type": "Compact Sedan",
+    "plateNum": "BEM 2026",
+    "category": "Economy",
+    "detail": "Car Type: Compact Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 150.00 /day",
+    "imagePath": "photo/Perodua Bezza.jpg"
+  },
+  {
+    "name": "Mercedes-Benz E-Class (Black)",
+    "type": "Premium Sedan",
+    "plateNum": "QM 5501 G",
+    "category": "Luxury",
+    "detail": "Car Type: Premium Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 1,100.00 /day",
+    "imagePath": "photo/Mercedes-Benz E-Class.jpg"
+  },
+  {
+    "name": "Mercedes-Benz E-Class (Grey)",
+    "type": "Premium Sedan",
+    "plateNum": "W 1 U",
+    "category": "Luxury",
+    "detail": "Car Type: Premium Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 1,100.00 /day",
+    "imagePath": "photo/Mercedes-Benz E-Class.jpg"
+  },
+  {
+    "name": "Mercedes-Benz E-Class (Blue)",
+    "type": "Premium Sedan",
+    "plateNum": "BNC 445",
+    "category": "Luxury",
+    "detail": "Car Type: Premium Sedan<br>Seating Capacity: 5 seats<br>Rent Amount: RM 1,100.00 /day",
+    "imagePath": "photo/Mercedes-Benz E-Class.jpg"
+  },
+  {
+    "name": "Winnebago Solis (White)",
+    "type": "Camper Van",
+    "plateNum": "PMY 3390",
+    "category": "RV",
+    "detail": "Car Type: Camper Van<br>Seating Capacity: 4 seats<br>Rent Amount: RM 850.00 /day",
+    "imagePath": "photo/Winnebago Solis.jpg"
+  },
+  {
+    "name": "Winnebago Solis (Cherry Red)",
+    "type": "Camper Van",
+    "plateNum": "JRT 112",
+    "category": "RV",
+    "detail": "Car Type: Camper Van<br>Seating Capacity: 4 seats<br>Rent Amount: RM 850.00 /day",
+    "imagePath": "photo/Winnebago Solis.jpg"
+  },
+  {
+    "name": "Winnebago Solis (Silver)",
+    "type": "Camper Van",
+    "plateNum": "W 909 T",
+    "category": "RV",
+    "detail": "Car Type: Camper Van<br>Seating Capacity: 4 seats<br>Rent Amount: RM 850.00 /day",
+    "imagePath": "photo/Winnebago Solis.jpg"
+  }
+]

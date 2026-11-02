@@ -1,0 +1,10 @@
+[
+{    "carName": "BMW iX3 (Carbon Black)",    "plateNum": "VAA 9000",    "issueType": "Service Required",    "description": "the aircon liquid is emty",    "date": "Sun Apr 05 23:12:05 GMT+08:00 2026"  },
+  {
+    "carName": "Winnebago Solis (White)",
+    "plateNum": "PMY 3390",
+    "issueType": "Repair Needed",
+    "description": "fuel no full",
+    "date": "Mon Apr 20 18:45:01 GMT+08:00 2026"
+  }
+]
